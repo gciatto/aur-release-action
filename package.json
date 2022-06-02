@@ -1,0 +1,11 @@
+{
+  "name": "aur-release-action",
+  "description": "A composite action taking care of deploying software on the AUR",
+  "author": "Giovanni Ciatto (https://about.me/gciatto)",
+  "devDependencies": {
+    "semantic-release-preconfigured-conventional-commits": "1.1.6"
+  },
+  "engines": {
+    "node": "16.15"
+  }
+}
