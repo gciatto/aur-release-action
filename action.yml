@@ -16,7 +16,7 @@ runs:
   using: composite
   steps:
     - name: Checkout with custom token
-      uses: actions/checkout@v3.3.0
+      uses: actions/checkout@v3.4.0
       if: inputs.token != ''
       with:
         reporitory: ssh://aur@aur.archlinux.org/${{ inputs.pkgbase }}.git
