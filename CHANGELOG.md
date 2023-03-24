@@ -1,3 +1,21 @@
+## [1.0.4](https://github.com/gciatto/aur-release-action/compare/1.0.3...1.0.4) (2023-03-24)
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/template-for-gradle-plugins digest to 0b3fc83 ([a512beb](https://github.com/gciatto/aur-release-action/commit/a512beb66ac1ad0d41f2de09d7ae646fca9c2f19))
+* **deps:** update danysk/template-for-gradle-plugins digest to 4d99678 ([fa838cc](https://github.com/gciatto/aur-release-action/commit/fa838cc959cee862736da5ef0445ba7474456dc2))
+* **deps:** update danysk/template-for-gradle-plugins digest to 7d6f44f ([cc39f4a](https://github.com/gciatto/aur-release-action/commit/cc39f4ae8e7aef71931a6e6bbdd87e537f761f58))
+* **deps:** update danysk/template-for-gradle-plugins digest to a46c2de ([6848431](https://github.com/gciatto/aur-release-action/commit/68484319456cb1de88d57dd83fc6b98fb387a4ba))
+* **deps:** update danysk/template-for-gradle-plugins digest to a9bc3fe ([4abfdef](https://github.com/gciatto/aur-release-action/commit/4abfdef2d3bb5c9cc185cc28d4d00efca5d82532))
+
+
+### Dependency updates
+
+* **core-deps:** update actions/checkout action to v3.5.0 ([0bad994](https://github.com/gciatto/aur-release-action/commit/0bad9949410582d3c08bc4bfef0b5bf0225d2fa6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.17 ([0802fde](https://github.com/gciatto/aur-release-action/commit/0802fde0ae383de81944231d664ec4a313539d54))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.19 ([70ebf10](https://github.com/gciatto/aur-release-action/commit/70ebf108659172bb51196258b6fc45bed129fdb0))
+
 ## [1.0.3](https://github.com/gciatto/aur-release-action/compare/1.0.2...1.0.3) (2023-03-16)
 
 
