@@ -3,7 +3,7 @@
   "description": "A composite action taking care of deploying software on the AUR",
   "author": "Giovanni Ciatto (https://about.me/gciatto)",
   "devDependencies": {
-    "semantic-release-preconfigured-conventional-commits": "1.1.24"
+    "semantic-release-preconfigured-conventional-commits": "1.1.25"
   },
   "engines": {
     "node": "18.16"
