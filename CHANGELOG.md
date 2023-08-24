@@ -1,3 +1,48 @@
+## [1.0.8](https://github.com/gciatto/aur-release-action/compare/1.0.7...1.0.8) (2023-08-24)
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/template-for-gradle-plugins digest to 218c736 ([15b5fe7](https://github.com/gciatto/aur-release-action/commit/15b5fe76c02fcb87b5cf0288f22f7a7b5086692f))
+* **deps:** update danysk/template-for-gradle-plugins digest to 24c3787 ([1d53269](https://github.com/gciatto/aur-release-action/commit/1d53269412f98a93c95728fccd4bc4f9542a1ebe))
+* **deps:** update danysk/template-for-gradle-plugins digest to 2dd96d7 ([12b5ad3](https://github.com/gciatto/aur-release-action/commit/12b5ad30137a22c5895e8d63837eaa52622947a0))
+* **deps:** update danysk/template-for-gradle-plugins digest to 373aaa8 ([359b79f](https://github.com/gciatto/aur-release-action/commit/359b79f2c855585966a66fc4d8c1107ecd859591))
+* **deps:** update danysk/template-for-gradle-plugins digest to 3d888b4 ([c063308](https://github.com/gciatto/aur-release-action/commit/c063308a990828e9fafb4d4369f57bb01525d7b5))
+* **deps:** update danysk/template-for-gradle-plugins digest to 53a18b4 ([c4423f8](https://github.com/gciatto/aur-release-action/commit/c4423f8cf399bce0525290853d17e8f5058a3f3e))
+* **deps:** update danysk/template-for-gradle-plugins digest to 5c276d8 ([9895a20](https://github.com/gciatto/aur-release-action/commit/9895a203eed1e8efcdee95b1a4ae856ae8b97a61))
+* **deps:** update danysk/template-for-gradle-plugins digest to 67303ea ([c2d374b](https://github.com/gciatto/aur-release-action/commit/c2d374b535f11bd32c254aa7ff724ab3fcfcd1ec))
+* **deps:** update danysk/template-for-gradle-plugins digest to 7510c97 ([e9bce29](https://github.com/gciatto/aur-release-action/commit/e9bce29e3629a7b556f1bad663b5fd5241dd9ce0))
+* **deps:** update danysk/template-for-gradle-plugins digest to 842661b ([77b4f9e](https://github.com/gciatto/aur-release-action/commit/77b4f9e17b844cdfbd51b5c31b86fa3d76bc62b1))
+* **deps:** update danysk/template-for-gradle-plugins digest to 93c6ce1 ([5041f12](https://github.com/gciatto/aur-release-action/commit/5041f12385f2a89f9b48adeb32fabfefab246a8e))
+* **deps:** update danysk/template-for-gradle-plugins digest to 95f1c92 ([5b566c8](https://github.com/gciatto/aur-release-action/commit/5b566c8c18a21990a7af1c9d7af8d3751e87d042))
+* **deps:** update danysk/template-for-gradle-plugins digest to 9b25e9c ([07d3e8c](https://github.com/gciatto/aur-release-action/commit/07d3e8cbd99359ae8aaf6bba7ac0be13517061d8))
+* **deps:** update danysk/template-for-gradle-plugins digest to a2ed670 ([c22f042](https://github.com/gciatto/aur-release-action/commit/c22f042977555e7a90966f3cc3b024e76fef0c5c))
+* **deps:** update danysk/template-for-gradle-plugins digest to be4ed75 ([244b457](https://github.com/gciatto/aur-release-action/commit/244b4575f94021a5e1342bf562a151ef7d16959c))
+* **deps:** update danysk/template-for-gradle-plugins digest to c73fa11 ([5e8ff24](https://github.com/gciatto/aur-release-action/commit/5e8ff24ad68366e7004504bd59a0c47268a63311))
+* **deps:** update danysk/template-for-gradle-plugins digest to cbf611a ([a280c26](https://github.com/gciatto/aur-release-action/commit/a280c268af4ff53a51f33eeff1a788cbd4e8d7b2))
+* **deps:** update danysk/template-for-gradle-plugins digest to e1635d6 ([6d707f5](https://github.com/gciatto/aur-release-action/commit/6d707f5b37624402b4af1d9e311b79b160f8851f))
+* **deps:** update danysk/template-for-gradle-plugins digest to e91a5e2 ([319a9e5](https://github.com/gciatto/aur-release-action/commit/319a9e54a6336079f7d2de1693aed5411bc8b0ae))
+* **deps:** update danysk/template-for-gradle-plugins digest to eadfdb4 ([5f372e9](https://github.com/gciatto/aur-release-action/commit/5f372e953d2823efd3d72fc90d7e9797fc75e50f))
+* **deps:** update danysk/template-for-gradle-plugins digest to edc7f83 ([616a1d5](https://github.com/gciatto/aur-release-action/commit/616a1d5041682a09597cce9e71a051eef59aa4ae))
+* **deps:** update danysk/template-for-gradle-plugins digest to f2993d8 ([38a0ba4](https://github.com/gciatto/aur-release-action/commit/38a0ba4abb398c1d3a4eb4ca273d65cc17074b85))
+* **deps:** update danysk/template-for-gradle-plugins digest to f74e4c6 ([1bc434b](https://github.com/gciatto/aur-release-action/commit/1bc434b447cfa28b761c5df7cb2b451f86689e50))
+
+
+### Dependency updates
+
+* **core-deps:** update actions/checkout action to v3.6.0 ([295e0d0](https://github.com/gciatto/aur-release-action/commit/295e0d0bbced8262196991fdb2802582a7d7d2e2))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.33 ([150d5fa](https://github.com/gciatto/aur-release-action/commit/150d5fa6d9c96cc39471cf5f961732f3fbe28091))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.34 ([798c8f7](https://github.com/gciatto/aur-release-action/commit/798c8f7feff29c0ba279af0c395302f1563b644e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.35 ([65c1c3a](https://github.com/gciatto/aur-release-action/commit/65c1c3a9b782213b7afe33e844c379572a6615c4))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.37 ([81c4318](https://github.com/gciatto/aur-release-action/commit/81c431826ae0d0433c4041aff97513737a9c49ec))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.38 ([abacc61](https://github.com/gciatto/aur-release-action/commit/abacc613a5c4e79fde85c60a23153e29479c1db8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.39 ([d4e189a](https://github.com/gciatto/aur-release-action/commit/d4e189afc4df4a5703b3c8a270c95651ab865744))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.40 ([a903676](https://github.com/gciatto/aur-release-action/commit/a903676acda3dbe18d99cb23276a35d3e2b18314))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.41 ([f764086](https://github.com/gciatto/aur-release-action/commit/f76408624369ecc09cd791a97e1eff508af35b4b))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.42 ([4f0f4d3](https://github.com/gciatto/aur-release-action/commit/4f0f4d3bf3f7d227023f09e792fc523a0c4ad2fd))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.43 ([93f2d62](https://github.com/gciatto/aur-release-action/commit/93f2d624e7cc8a6a2bb781c1ce8992458fbecb53))
+* **deps:** update node.js to 18.17 ([39a36bb](https://github.com/gciatto/aur-release-action/commit/39a36bb55c671a4eae169a71d79c827dce89a483))
+
 ## [1.0.7](https://github.com/gciatto/aur-release-action/compare/1.0.6...1.0.7) (2023-06-09)
 
 
