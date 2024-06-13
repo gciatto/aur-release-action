@@ -1,3 +1,25 @@
+## [1.0.16](https://github.com/gciatto/aur-release-action/compare/1.0.15...1.0.16) (2024-06-13)
+
+
+### Dependency updates
+
+* **core-deps:** update actions/checkout action to v4.1.7 ([ec5bafc](https://github.com/gciatto/aur-release-action/commit/ec5bafceab24bb168188e8c1f4626e9e881015f5))
+* **deps:** update node.js to 20.14 ([958d012](https://github.com/gciatto/aur-release-action/commit/958d012a4b38b97d9d2a3c03600d8597a26ecbaf))
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/template-for-gradle-plugins digest to 01b7a26 ([29b8c3c](https://github.com/gciatto/aur-release-action/commit/29b8c3caa019449ac453db7460d0c64f59147dc9))
+* **deps:** update danysk/template-for-gradle-plugins digest to 036dcd2 ([5f5f006](https://github.com/gciatto/aur-release-action/commit/5f5f00609302fa1589af0e8f772a267b680b13b9))
+* **deps:** update danysk/template-for-gradle-plugins digest to 2ef74c0 ([3a47e6c](https://github.com/gciatto/aur-release-action/commit/3a47e6c63108b6ae0983f34f2f46179def85ce28))
+* **deps:** update danysk/template-for-gradle-plugins digest to 3e350bc ([992bfce](https://github.com/gciatto/aur-release-action/commit/992bfce59eecffe204ef6ae7e640c106778c6a67))
+* **deps:** update danysk/template-for-gradle-plugins digest to 64e9446 ([3625e62](https://github.com/gciatto/aur-release-action/commit/3625e62502f45f6f0ef9f5e6efd43e16171b7987))
+* **deps:** update danysk/template-for-gradle-plugins digest to 7f3d9bc ([eb2a526](https://github.com/gciatto/aur-release-action/commit/eb2a526804a1d7b39342a80a4a890ebd1922bf73))
+* **deps:** update danysk/template-for-gradle-plugins digest to 89e8964 ([5f83d8c](https://github.com/gciatto/aur-release-action/commit/5f83d8c596c2dbab10cb09c74799a207b76184e7))
+* **deps:** update danysk/template-for-gradle-plugins digest to 8fd1409 ([388a486](https://github.com/gciatto/aur-release-action/commit/388a486cf90905cbcfadded6e0da481ff4622a40))
+* **deps:** update danysk/template-for-gradle-plugins digest to 974cdea ([f604244](https://github.com/gciatto/aur-release-action/commit/f6042444f97872194b7eee3f0f05db29e3149a1d))
+* **deps:** update danysk/template-for-gradle-plugins digest to f7169fc ([990286c](https://github.com/gciatto/aur-release-action/commit/990286c9d9d91a420beff967990ca22ce245df31))
+
 ## [1.0.15](https://github.com/gciatto/aur-release-action/compare/1.0.14...1.0.15) (2024-05-17)
 
 
